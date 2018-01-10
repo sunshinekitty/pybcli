@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsunshinekitty%2Fhelcli.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsunshinekitty%2Fhelcli?ref=badge_shield)
+
 helcli
 ======
 
@@ -42,3 +44,7 @@ Documentation
 To see some examples of HelCLI in use see the
 `example project <https://github.com/sunshinekitty/helcli-example>`_, or the
 `documentation <https://helcli.readthedocs.io/en/latest/>`_.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsunshinekitty%2Fhelcli.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsunshinekitty%2Fhelcli?ref=badge_large)
